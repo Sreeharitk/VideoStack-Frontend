@@ -1,0 +1,50 @@
+.mp{
+    background-color: #022140;
+    color: snow;
+}
+
+.mpm{
+    max-width: 90% !important;
+    padding-top: 50px;
+}
+
+.mp0{
+    padding: 10px;
+    border-bottom: dotted #fd6e00;
+}
+
+.mp1 h1 span{
+    color: #fd6e00;
+}
+
+.mp1 a{
+    font-size: 30px;
+    text-decoration: none;
+    color: #fd6e00;
+}
+
+.mp1 a span{
+    color: #ffd200;
+}
+
+.mp2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mp0-1{
+    margin-top: 20px !important;
+}
+
+.mp3{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.mp4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

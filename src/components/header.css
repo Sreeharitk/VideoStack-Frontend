@@ -1,0 +1,44 @@
+.n1{
+    background-color: #265077!important;
+    padding: 20px !important;
+}
+
+.c1{
+    display: flex;
+    width:50%;
+    justify-content:flex-start !important;
+    align-items: center;
+}
+
+.c1 img{
+    margin-right: 10px;
+}
+
+.c1 p{
+    color: snow;
+    font-size: 35px;
+    margin: 0;
+}
+
+.c1 p .sp1{
+    color: #ffd200;
+}
+
+.c1 p .sp2{
+    color: #fd6e00;
+}
+
+@media (max-width:800px) {
+    .c1 p{
+        font-size: 25px;
+    }
+    .c1 img{
+        height: 30px;
+        width: 30px;
+        margin-right: 5px !important;
+    }
+    .c2{
+        margin-right: 0 !important;
+    }
+    
+}
